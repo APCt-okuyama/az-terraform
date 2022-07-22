@@ -1,4 +1,4 @@
-# Terrafoem ファイルの構成
+# Terraform ファイルの構成
 
 ファイル構成を簡単に纏めておく
 ![image](./basic_knowlege.png)
