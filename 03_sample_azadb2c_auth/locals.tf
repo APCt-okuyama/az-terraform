@@ -47,7 +47,7 @@ locals {
 
   # api management
   apim_name = "apim${random_string.projectno.result}"
-  apim_publisher_name = "tokuyama"
-  apim_publisher_email = "t_okuyama@apc-com.co.jp" 
-  # front door    
+  apim_publisher_name = "taro"
+  apim_publisher_email = "taro@example.co.jp" 
+
 }

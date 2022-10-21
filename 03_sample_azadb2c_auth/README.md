@@ -1,7 +1,7 @@
 # IaC(terraform) で Azureリソースを構築する
 
-この環境(赤枠の部分)をterraformで実装する例
-![image](../deployToAppService.png)
+## サンプルリポジトリの構成
+![image](./az-adb2c-example.png))
 
 ## (Option) 本番や実践的な運用にむけて
 
@@ -116,3 +116,7 @@ resource "azurerm_key_vault_secret" "example2" {
 cd infra
 /usr/local/terraform-docs markdown table --output-file sample-terraform-docs.md --output-mode inject ./
 ```
+
+
+
+
